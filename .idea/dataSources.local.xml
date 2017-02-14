@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - namecus@localhost" uuid="02d2745a-d92c-40e5-827a-d57f93aa740d">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>namecus.*</schema-pattern>
+      <default-schemas>namecus.*</default-schemas>
+    </data-source>
+  </component>
+</project>
